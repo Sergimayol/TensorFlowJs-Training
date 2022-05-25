@@ -9,7 +9,7 @@ This example is made following the tfjs [documentation tutorial](https://storage
 
 - To see the explanation and documentation demo go to [documentation tutorial](https://storage.googleapis.com/tfjs-vis/mnist/dist/index.html).
 
-- To see the example demo of this repository go to sergimayol.github.io/TensorFlowJs-Training/.
+- To see the example demo of this repository go to [sergimayol.github.io/TensorFlowJs-Training/](https://sergimayol.github.io/TensorFlowJs-Training/).
 
 ## Getting started
 
